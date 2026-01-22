@@ -1,3 +1,4 @@
 # c-problems-practice
-practice problems of c
-author- Arnav Khare
+Practice Problems of c
+<br>
+Author- Arnav Khare
